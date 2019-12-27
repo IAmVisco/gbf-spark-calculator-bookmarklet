@@ -8,8 +8,8 @@ Automatic:
 - Convert it to the bookmarklet using this site https://mrcoles.com/bookmarklet/
 - Drag generated bookmarklet to your bookmarks bar
 
-Manual (if you don't trust obfuscated code):
-- Copy the contents of [index.min.js file](./index.min.js)
+Manual:
+- Copy the contents of [index.min.js file](./index.min.js) (or [index.js file](./index.js) and convert it with the site above if you don't trust obfuscated code)
 - Open `Bookmark Manager`
 - Click `Add new bookmark`
 - Set whichever name and paste the code to the `URL` field
