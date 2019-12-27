@@ -3,6 +3,9 @@
 ## **I do not gurantee the safety of your account! The script should be safe but you never know, especially with latest Cygames policies.**
 
 ### How to
+GIF reference
+![How to](img/how-to.gif)
+
 Automatic:
 - Copy the contents of non obfuscated [index.js file](./index.js)
 - Convert it to the bookmarklet using this site https://mrcoles.com/bookmarklet/
